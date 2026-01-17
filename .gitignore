@@ -1,0 +1,108 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+report.*.json
+
+# Node / package managers
+node_modules/
+node_modules/**
+.npm/
+.pnpm-store/
+.pnp.*
+.yarn/
+.yarnrc.yml
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Build outputs
+/dist/
+/build/
+/out/
+
+# Vite / tooling caches
+.vite/
+vite-cache/
+.esbuild/
+.swc/
+.sass-cache/
+
+# TypeScript
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+
+# Linters / formatters
+.eslintcache
+.prettiercache
+
+# Tailwind
+.tailwind-cache/
+
+# Coverage / testing
+coverage/
+*.lcov
+.nyc_output/
+.vitest/
+
+# IDE / editor
+.vscode/
+.history/
+*.sublime-workspace
+*.sublime-project
+.idea/
+*.iml
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Env & secrets
+.env
+.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+*.key
+*.pem
+*.cert
+*.crt
+*.p12
+*.pfx
+
+# Supabase local/dev artifacts
+supabase/.temp/
+supabase/.branches/
+supabase/.cache/
+supabase/.env
+supabase/.service.key
+supabase/.runtime/
+supabase/functions/.env
+supabase/functions/*/node_modules/
+
+# Deployment providers (optional, ignore if used)
+.vercel/
+.netlify/
+.firebase/
+
+# Storybook static build (if used)
+storybook-static/
+
+# Archives
+*.tgz
+*.zip
+*.tar
+*.tar.gz
