@@ -175,5 +175,5 @@ Language selector je dostopan povsod - nastavitve se spremenijo v realnem času.
 
 Projekt je razvit kot del projekta za cross-border SSI platformo.
 
-Osnovna Figma zasnova: https://www.figma.com/design/61DPNccIv7EuEcJPT5pkLI/Cross-Border-Credential-Platform
+
   
