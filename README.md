@@ -27,7 +27,7 @@
 
 ```bash
 # Kloniraj projekt
-git clone <repo-url>
+git clone https://github.com/Tide03/Cross-border-SSI---Verifiable-Credentials-platforma.git
 cd Projekt
 
 # Instaliraj odvisnosti
